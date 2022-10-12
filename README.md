@@ -40,7 +40,7 @@
 - statsmodels - version 0.12.0
 
 
-## Acknowledgements
+## Resources
 - https://www.k2analytics.co.in/assumptions-of-linear-regressions-part-2/
 - https://towardsdatascience.com/significance-of-q-q-plots-6f0c6e31c626
 - https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/#:~:text=In%20the%20most%20simple%20words,the%20dependent%20and%20independent%20variable.
