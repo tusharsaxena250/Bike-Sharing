@@ -47,7 +47,7 @@
 
 
 ## Contact
-Created by [@tusharsaxene250] - feel free to contact me!
+Created by [@tusharsaxena250] - feel free to contact me!
 
 
 <!-- Optional -->
